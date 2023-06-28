@@ -1,0 +1,1 @@
+/Users/atatekeli/Documents/GitHub/FCC-Rust/Rust_Advanced_FCC/target/debug/Rust_Advanced_FCC: /Users/atatekeli/Documents/GitHub/FCC-Rust/Rust_Advanced_FCC/src/main.rs /Users/atatekeli/Documents/GitHub/FCC-Rust/Rust_Advanced_FCC/src/ownership.rs

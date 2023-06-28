@@ -34,7 +34,7 @@ Memory
 
 */
 
-fn ownership() {
+pub fn ownership() {
     let s = String::from("hello"); // s comes into scope
 
     takes_ownership(s); //s's value moves into the function ... and so is no longer valid here
