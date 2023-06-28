@@ -24,3 +24,12 @@ Local Scope:
 
 */ 
 
+/* 
+
+Memory
+
+-Component in a computer to store data and instructions for the processor to execute
+-Random Access Memory (RAM) is volatile, when power turned off all contents are lost
+-Two types of regions in RAM used by a program at runtime: Stack memory and heap memory
+
+*/
