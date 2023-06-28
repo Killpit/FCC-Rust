@@ -34,6 +34,14 @@ Memory
 
 */
 
+/*
+
+Preventing issues:
+
+
+
+ */
+
 pub fn ownership() {
     let s = String::from("hello"); // s comes into scope
 
