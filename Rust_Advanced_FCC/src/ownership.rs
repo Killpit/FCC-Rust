@@ -38,7 +38,11 @@ Memory
 
 Preventing issues:
 
+Ownership prevents memory safety issues:
 
+-Dangling pointers
+-Double-free (trying to free memory that has already been freed)
+-Memory leaks (not freeing memory that should have been freed)
 
  */
 
