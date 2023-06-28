@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./Rust_Advanced_FCC/src/ownership_exercises/Cargo.toml"
+    ]
+}
