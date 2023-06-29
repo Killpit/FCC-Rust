@@ -1,0 +1,1 @@
+pub fn boxed_integer() {}
