@@ -1,7 +1,3 @@
-use std::boxed;
-
-use boxed_integer::boxed_integer;
-
 //mod first_exercise;
 //mod exercise_two;
 //mod exercise_three;
