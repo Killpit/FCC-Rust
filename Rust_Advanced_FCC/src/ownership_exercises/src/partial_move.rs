@@ -4,3 +4,4 @@ time. Doing this will result in a partial move of the variable, which means that
 while other parts stay. In such a case, the parent variable cannot be used afterwards as a whole, however the parts that
 are only referenced (and not moved) can still be used */
 
+pub fn run() {}

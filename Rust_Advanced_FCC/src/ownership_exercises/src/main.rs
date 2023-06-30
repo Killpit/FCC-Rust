@@ -15,6 +15,6 @@ fn main() {
     //exercise_five::exercise_five();
     //mutability::mutability();
     //boxed_integer::boxed_integer();
-    
+    partial_move::run();
 }
 
