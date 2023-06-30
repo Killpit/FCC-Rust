@@ -7,3 +7,9 @@ Borrowing:
 -Data can be borrowed immutably and mutably
 -There are certain rules when borrowing which we have to comply with, otherwise, the program won't compile */
 
+/*
+Rules of References
+
+-At any given time, you can have either one mutable reference or any number of immutable references.
+-References must always be valid
+*/
