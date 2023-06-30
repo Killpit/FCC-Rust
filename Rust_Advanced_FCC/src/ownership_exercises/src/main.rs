@@ -4,7 +4,8 @@
 //mod exercise_four;
 //mod exercise_five;
 //mod mutability;
-mod boxed_integer;
+//mod boxed_integer;
+mod partial_move;
 
 fn main() {
     //first_exercise::first_exercise();
@@ -13,6 +14,7 @@ fn main() {
     //exercise_four::exercise_four();
     //exercise_five::exercise_five();
     //mutability::mutability();
-    boxed_integer::boxed_integer();
+    //boxed_integer::boxed_integer();
+    
 }
 
