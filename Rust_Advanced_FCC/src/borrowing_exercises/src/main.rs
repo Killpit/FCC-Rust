@@ -1,3 +1,5 @@
+mod borrowing_exercise_one;
+
 fn main() {
-    println!("Hello, world!");
+    borrowing_exercise_one::run();
 }
