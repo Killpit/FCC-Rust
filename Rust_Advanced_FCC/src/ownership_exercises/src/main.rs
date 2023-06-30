@@ -6,7 +6,8 @@
 //mod mutability;
 //mod boxed_integer;
 //mod partial_move;
-mod exercise_eight;
+//mod exercise_eight;
+mod exercise_nine;
 
 fn main() {
     //first_exercise::first_exercise();
@@ -17,6 +18,7 @@ fn main() {
     //mutability::mutability();
     //boxed_integer::boxed_integer();
     //partial_move::run();
-    exercise_eight::run();
+    //exercise_eight::run();
+    exercise_nine::run();
 }
 
