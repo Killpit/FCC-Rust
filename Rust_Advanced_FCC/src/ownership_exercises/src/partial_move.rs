@@ -21,4 +21,7 @@ pub fn run() {
 
     println!("The person's age is {}", age);
     println!("The person's name is {}", name);
+
+    //'person' cannot be used but 'person.age' can be used as it is not moved
+    println!("The person's age from person struct is {}", person.age);
 }
