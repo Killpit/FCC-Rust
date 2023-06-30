@@ -1,9 +1,9 @@
 pub fn run() {
     let mut s: String = String::from("hello, ");
 
-    borrow_objects(s);
+    borrow_object(&s);
 
     println!("Success!");
 }
 
-fn borrow_objects(s: String) {}
+fn borrow_object(s: &String) {}
