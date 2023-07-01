@@ -6,5 +6,7 @@ pub fn run() {
 
     println!("{}, {}", r1, r2);
 
-    println!
+    println!("s: {}", s);
+
+    println!("Success");
 }
