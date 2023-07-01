@@ -4,7 +4,8 @@
 //mod borrowing_exercise_four;
 //mod borrowing_exercise_five;
 //mod reference;
-mod borrowing_rules;
+//mod borrowing_rules;
+mod mutability;
 
 fn main() {
     //borrowing_exercise_one::run();
@@ -13,5 +14,6 @@ fn main() {
     //borrowing_exercise_four::run();
     //borrowing_exercise_five::run();
     //reference::run();
-    borrowing_rules::run();
+    //borrowing_rules::run();
+    mutability::run();
 }
