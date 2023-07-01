@@ -6,6 +6,7 @@
 //mod reference;
 //mod borrowing_rules;
 //mod mutability;
+mod mutable_immutable_borrowing;
 
 fn main() {
     //borrowing_exercise_one::run();
@@ -15,5 +16,6 @@ fn main() {
     //borrowing_exercise_five::run();
     //reference::run();
     //borrowing_rules::run();
-    mutability::run();
+    //mutability::run();
+    mutable_immutable_borrowing::run();
 }
