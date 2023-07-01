@@ -1,9 +1,9 @@
 //mod ownership;
 //mod borrowing;
-mod borrowing_mutable_references;
+mod slices;
 
 fn main() {
     //ownership::ownership();
     //borrowing::run();
-    borrowing_mutable_references::run();
+    slices::run();
 }
