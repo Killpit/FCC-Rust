@@ -1,3 +1,5 @@
+mod slice_exercise_one;
+
 fn main() {
-    println!("Hello, world!");
+    slice_exercise_one::run();
 }
