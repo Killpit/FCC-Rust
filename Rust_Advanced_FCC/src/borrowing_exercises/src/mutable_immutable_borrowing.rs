@@ -1,5 +1,5 @@
 pub fn run() {
-    let mut s = String::from("hello, ");
+    let mut s: String = String::from("hello, ");
 
     borrow_objects(&s);
 
