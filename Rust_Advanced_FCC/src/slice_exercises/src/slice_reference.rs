@@ -3,7 +3,7 @@ pub fn run() {
 
     let slice: &[char] = &arr[..2];
 
-    assert!(std::mem::size_of_val(&slice) == 8);
+    assert!(std::mem::size_of_val(&slice) == 16);
 
     println!("Success");
 }
