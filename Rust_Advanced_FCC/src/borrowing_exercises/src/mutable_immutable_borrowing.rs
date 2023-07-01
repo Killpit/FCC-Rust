@@ -7,4 +7,4 @@ pub fn run() {
 
     println!("Success");
 }
-fn borrow_objects(s. &String) {}
+fn borrow_objects(s: &String) {}
