@@ -3,7 +3,8 @@
 //mod borrowing_exercise_three;
 //mod borrowing_exercise_four;
 //mod borrowing_exercise_five;
-mod reference;
+//mod reference;
+mod borrowing_rules;
 
 fn main() {
     //borrowing_exercise_one::run();
@@ -11,5 +12,6 @@ fn main() {
     //borrowing_exercise_three::run();
     //borrowing_exercise_four::run();
     //borrowing_exercise_five::run();
-    reference::run();
+    //reference::run();
+    borrowing_rules::run();
 }
