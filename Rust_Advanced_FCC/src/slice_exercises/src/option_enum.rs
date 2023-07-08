@@ -7,5 +7,16 @@
 */
 
 pub fn run() {
-    
+    let five: Option<i32> = Option::Some(5);
+    let six = plus_one(five);
+    let none = plus_one(None);
+
+    if let __ = six {
+        println!("{}", n);
+
+        println!("Success");
+    }
+
+    panic!("NEVER LET THIS RUN! ");
 }
+
