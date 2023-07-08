@@ -2,7 +2,7 @@ pub fn run() {
     let s: String = String::from("hello");
 
     let slice1: &str = &s[0..2];
-    let slice2 = &s[3..4];
+    let slice2: &str = &s[..2];
 
     assert_eq!(slice1, slice2);
 
