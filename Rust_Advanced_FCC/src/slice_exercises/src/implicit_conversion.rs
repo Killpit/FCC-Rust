@@ -1,7 +1,7 @@
 pub fn run() {
     let mut s: String = String::from("hello world");
 
-    let word = first_word(&s);
+    let word: &str = first_word(&s);
 
     s.clear();
 
