@@ -5,4 +5,10 @@
 -Zero cost abstraction, Rust compiler will at compile time fill out generics with concrete types
  */
 
+ /*
+Const Generics
+
+-Type parameter that represents a compile-time 
+  */
+
 pub fn run() {}
