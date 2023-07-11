@@ -1,4 +1,4 @@
-fn sum<T>(a: T, b: T) -> T {
+fn sum<T: std::ops::Add<Output = T >>(a: T, b: T) -> T {
     a + b
 }
 
