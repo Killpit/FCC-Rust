@@ -4,7 +4,7 @@ struct Point<T, U> {
 }
 
 pub fn run() {
-    let p = Point{x: 5, y: "hello".to_string()};
+    let p: Point<i32, String> = Point{x: 5, y: "hello".to_string()};
 
     println!("Success");
 }
