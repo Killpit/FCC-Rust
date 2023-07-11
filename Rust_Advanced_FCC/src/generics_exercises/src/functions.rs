@@ -18,4 +18,6 @@ pub fn run() {
     generic::<char>(__);
 
     generic(__);
+
+    println!("Success");
 }
