@@ -1,5 +1,7 @@
-mod functions;
+//mod functions;
+mod sum;
 
 fn main() {
-    functions::run();
+    //functions::run();
+    sum::run();
 }
