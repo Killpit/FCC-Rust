@@ -15,9 +15,9 @@ pub fn run() {
     gen_spec_t(SGen(A));
     gen_spec_i32(SGen(7));
 
-    generic::<char>(__);
+    generic::<char>(SGen('A'));
 
-    generic(__);
+    generic(SGen('Z'));
 
     println!("Success");
 }
