@@ -1,5 +1,5 @@
-struct Val {
-    val: f64,
+struct Val<T> {
+    val: T,
 }
 
 impl Val {
