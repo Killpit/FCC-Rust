@@ -16,4 +16,6 @@ pub fn run() {
     gen_spec_i32(__);
 
     generic::<char>(__);
+
+    generic(__);
 }
