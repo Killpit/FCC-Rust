@@ -3,7 +3,7 @@ struct Val<T> {
 }
 
 impl<T> Val<T> {
-    fn value(&self) -> &f64 {
+    fn value(&self) -> &T {
         &self.val
     }
 }
