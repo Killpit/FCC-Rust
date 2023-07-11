@@ -1,4 +1,6 @@
-fn sum() {}
+fn sum<T>(a: T, b: T) -> T {
+    a + b
+}
 
 pub fn run() {
     assert_eq!(5, sum(2i8, 3i8));
