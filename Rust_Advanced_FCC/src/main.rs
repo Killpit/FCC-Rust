@@ -1,9 +1,11 @@
 //mod ownership;
 //mod borrowing;
-mod slices;
+//mod slices;
+mod generics;
 
 fn main() {
     //ownership::ownership();
     //borrowing::run();
-    slices::run();
+    //slices::run();
+    generics::run();
 }
