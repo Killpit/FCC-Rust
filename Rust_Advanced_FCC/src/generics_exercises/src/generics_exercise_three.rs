@@ -1,6 +1,6 @@
-struct Point<T> {
+struct Point<T, U> {
     x: T,
-    y: T,
+    y: U,
 }
 
 pub fn run() {
